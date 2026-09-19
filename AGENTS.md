@@ -35,8 +35,13 @@
   when they clarify related details.
 - Follow the reference's writing format without copying its project-specific
   workflow rules or storage decisions.
-- Link to source material and distinguish assignment requirements, confirmed
-  decisions, proposals, and open questions.
+- Do not use internal links in project documentation. Refer to internal documents
+  and artifacts by their plain-text titles; keep links to external sources.
+- Write in first person when describing my role, contribution, choices or
+  reflection. Use "I" and "my" instead of referring to Daan by name.
+- Do not mention AI assistants or AI assistance in project documentation.
+- Distinguish assignment requirements, confirmed decisions, proposals, and open
+  questions.
 - Keep source documents in `docs/sources/` separate from project conclusions.
 - Use several justified research methods based on the DOT framework, as required
   by the Analysis learning outcome. The reference is available at
@@ -53,7 +58,7 @@
   Track evidence and coverage gaps in project documentation so missing evidence
   can be addressed during the project.
 - For each piece of evidence, record the relevant outcome, Daan's contribution,
-  the approach and reasoning, the result, and links to supporting artifacts.
+  the approach and reasoning, the result, and references to supporting artifacts.
   Include validation, stakeholder feedback, and reflection where relevant.
 - Gather evidence as work happens, such as research results, substantiated
   advice, designs and prototype feedback, implementation and test results,
