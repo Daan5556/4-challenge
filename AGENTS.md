@@ -20,8 +20,8 @@
   scope has been agreed.
 - Include CDN integration in the infrastructure research and design. Cloudflare
   is a candidate; the provider and services have not been selected.
-- Keep accessibility for blind and partially sighted users out ofmind when defining
-  platform features and backend behaviour, the app will be used by their guardian.
+- Keep accessibility for blind and partially sighted users out ofmind when
+  defining platform features and backend behaviour.
 - Explain infrastructure and backend choices, their trade-offs, and how they
   support the project requirements.
 
@@ -35,8 +35,9 @@
   when they clarify related details.
 - Follow the reference's writing format without copying its project-specific
   workflow rules or storage decisions.
-- Do not use internal links in project documentation. Refer to internal documents
-  and artifacts by their plain-text titles; keep links to external sources.
+- Do not use internal links in project documentation. Refer to internal
+  documents and artifacts by their plain-text titles; keep links to external
+  sources.
 - Write in first person when describing my role, contribution, choices or
   reflection. Use "I" and "my" instead of referring to Daan by name.
 - Do not mention AI assistants or AI assistance in project documentation.
@@ -58,8 +59,9 @@
   Track evidence and coverage gaps in project documentation so missing evidence
   can be addressed during the project.
 - For each piece of evidence, record the relevant outcome, Daan's contribution,
-  the approach and reasoning, the result, and references to supporting artifacts.
-  Include validation, stakeholder feedback, and reflection where relevant.
+  the approach and reasoning, the result, and references to supporting
+  artifacts. Include validation, stakeholder feedback, and reflection where
+  relevant.
 - Gather evidence as work happens, such as research results, substantiated
   advice, designs and prototype feedback, implementation and test results,
   deployment and monitoring records, stakeholder communication, and personal
@@ -85,8 +87,8 @@
 
 - Which social features are part of the first prototype?
 - Which backend stack and hosting environment should be used?
-- Is Cloudflare being considered only for the CDN or also for hosting and backend
-  services?
+- Is Cloudflare being considered only for the CDN or also for hosting and
+  backend services?
 - Should project documentation be written in English or Dutch?
 - Which assessment level applies to Professional Standard and Personal
   Leadership, and are there additional portfolio submission requirements?

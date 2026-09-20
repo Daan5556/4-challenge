@@ -1,6 +1,5 @@
 # Analysis
 
-**Author:** Daan Eggen  
 **Date:** 12/09/2026  
 **Version:** 1.0
 
@@ -16,9 +15,9 @@
   manage settings, alongside safe communication between an app and the ball.
 - My role is IT infrastructure and backend web developer. My intended
   contribution is a server platform with social features and CDN integration.
-- The current project direction is that guardians use the app. Direct use of
+- The current project direction is that users use the app. Direct use of
   the app by blind and partially sighted users is outside my current focus.
-- The original challenge includes accessibility deliverables. The guardian-led
+- The original challenge includes accessibility deliverables. The user-led
   direction and its effect on these deliverables need stakeholder confirmation.
 
 ## Problem and objective
@@ -26,7 +25,7 @@
 - The challenge does not define a server platform or social features. Their
   value and connection to sound selection and settings management must first
   be established.
-- The analysis should determine which guardian needs justify shared online
+- The analysis should determine which user needs justify shared online
   functionality and what infrastructure is needed to support it.
 - The desired result is a supported set of requirements, a clear description of
   information flows, and evidence for later architecture and technology advice.
@@ -36,10 +35,10 @@
 ## Research questions
 
 - Main question: What requirements should a server platform with social
-  features and CDN integration meet to support guardians using the Visioball?
-- RQ1: What do the client and guardians need, and which social features would
+  features and CDN integration meet to support users using the Visioball?
+- RQ1: What do the client and users need, and which social features would
   provide value within the challenge?
-- RQ2: How should information move between guardians, the app, the backend,
+- RQ2: How should information move between users, the app, the backend,
   content storage and the ball, including when connectivity is unavailable?
 - RQ3: What can comparable products and existing technical approaches teach us
   about shared content, account management and platform operation?
@@ -50,7 +49,7 @@
 
 ## Scope
 
-- Investigate guardian workflows, backend responsibilities, infrastructure and
+- Investigate user workflows, backend responsibilities, infrastructure and
   the interfaces with the app.
 - Explore social features with stakeholders. Sharing sound presets, profiles
   and groups are discussion examples, not agreed requirements.
@@ -63,7 +62,7 @@
 
 ## Research methods
 
-- Field: interview the client and representative guardians about current sound
+- Field: interview the client and representative users about current sound
   selection, settings management and possible shared activities (RQ1, RQ2).
   This establishes actual needs before selecting features. Record examples,
   priorities and disagreements, then ask participants to check the summary.
@@ -71,7 +70,7 @@
   for backend, storage and CDN approaches (RQ3, RQ5). This identifies existing
   solutions and constraints. Record sources, dates and consistent comparison
   criteria; distinguish documented claims from measured behaviour.
-- Workshop: map guardian workflows and information flows with the app and
+- Workshop: map user workflows and information flows with the app and
   hardware contributors (RQ2, RQ4). This exposes unclear responsibilities and
   dependencies. Produce annotated process and data-flow diagrams, including
   failure cases, and record participant feedback.
@@ -88,7 +87,7 @@
 
 ## Processes and information flows
 
-- Document how a guardian currently selects a sound and changes settings, who
+- Document how a user currently selects a sound and changes settings, who
   is involved, and where problems occur.
 - For each proposed social workflow, identify the initiating user, permissions,
   information created, intended recipients and expected result.
@@ -140,9 +139,9 @@
 ## Open questions
 
 - Who can confirm the scope on behalf of IDE and Koninklijke Visio, and which
-  guardians can participate in research?
+  users can participate in research?
 - Which social use case should the first prototype support?
-- How does the guardian-led app direction align with the original deliverables?
+- How does the user-led app direction align with the original deliverables?
 - What interfaces and limitations does the existing ball or hardware mockup have?
 - What budget, hosting constraints, expected usage and quality targets apply?
 - Is Cloudflare being considered only for CDN delivery or also for backend
