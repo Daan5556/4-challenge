@@ -10,5 +10,3 @@
 - Semester plan
 - Pitch project
 - Server platform onderzoeksvragen
-
-## 15/09/2026
