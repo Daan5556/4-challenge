@@ -4,6 +4,16 @@
 **Date:** 20/09/2026  
 **Version:** 0.2 — proposed prototype design
 
+## Introduction
+
+The Visioball is a ball developed for Koninklijke Visio that uses sound to help
+blind and partially sighted users locate it and follow its movement. The
+challenge from Industrial Design Engineering at Fontys Venlo focuses on an
+accessible app that communicates with the ball and manages its sounds and
+settings. My contribution focuses on the backend and infrastructure. This
+document describes a Game API for storing and retrieving game definitions and
+uploading audio and images, as a proposed extension to support the app.
+
 ## Purpose and status
 
 - Provide a small HTTP API through which the front-end app can save a game
